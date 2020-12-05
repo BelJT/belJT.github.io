@@ -1,0 +1,37 @@
+header {
+    width: 100%;
+    height: 140px;
+    background-color: #10154b;
+    color: white;
+    
+}
+
+.paper {
+    font-weight: 900;
+    font-style: oblique;
+    font-size: 32px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    float: right;
+    padding-right: 30px;
+}
+#spur{
+    font-size: 48px;
+}
+.dogs {
+    text-transform: uppercase;
+    font-size: 64px;
+    font-weight: bold;
+    padding: 30px;
+    text-align: center;
+}
+
+#players {
+    justify-items: center;
+}
+
+.carousel-caption {
+    position: relative;
+    left: 0;
+    top: 300px;
+    background-color: #10154b;
+}

@@ -1,0 +1,140 @@
+header {
+    width: 100%;
+    height: 120px;
+    background-color: navy;
+    color: white;
+    
+}
+
+.paper {
+    font-weight: 900;
+    font-style: oblique;
+    font-size: 32px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    float: right;
+    padding-right: 30px;
+}
+#spur{
+    font-size: 48px;
+}
+
+#canine {
+    background-image: url("../Christmas/Resources/Images/christmas-2934094_1920.jpg");
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: red;
+    font-weight: 700;
+    font-size: 80px;
+    text-transform: uppercase;
+    height: 150px;
+    text-align: center;
+    position: relative;
+    top: -70px;
+    vertical-align: middle;
+    
+}
+main {
+    display: grid;
+    grid-template-rows: 1fr, 3fr, 2fr, 1fr;
+    grid-template-columns: repeat(12, 1fr);
+    grid-gap: 10px;
+    position: relative;
+    top: -100px;
+
+
+}
+
+
+#jose  {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;6
+    font-weight: 500px;
+    font-size: 96px;
+    grid-column-start: 1;
+    grid-column-end: 12;
+    grid-row-start: 1;
+    grid-row-end: 2;
+    padding: 10px;
+    position: relative;
+    top: -100px;
+}
+
+.col1 {
+    grid-column-start: 1;
+    grid-column-end: 5;
+    grid-row-start: 2; 
+    grid-row-end: 3;
+}
+
+.col2 {
+    grid-column-start: 5;
+    grid-column-end: 9;
+    grid-row-start: 2;
+    grid-row-end: 3;
+} 
+
+#Leya1 {
+    grid-column-start: 9;
+    grid-column-end: 13;
+    grid-row-start: 2;
+    grid-row-end: 3;
+}
+
+
+
+
+
+p {
+    font-family: 'IBM Plex Serif', serif;
+}
+
+h3
+   {
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     font-size: 28px;
+     font-weight: 800px;
+}
+
+ 
+#Dec  {
+    font-weight: bold;
+    font-size: larger;
+}
+
+
+
+.polly {
+
+   grid-row-start: 3;
+   grid-row-end: 4;
+   grid-column-start: 1;
+   grid-column-end: 9;
+}
+
+#parrot {
+    display: inline;
+}
+
+.bruges {
+    width: 400px;
+    background-image: url("../Christmas/Resources/Images/belfry-2611573_1920.jpg");
+    background-size: 480px;
+    height: 300px;
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    grid-row-start: 4;
+    grid-row-end: 6;
+}
+
+#visit {
+    position: relative;
+    top: 185px;
+    background-color: whitesmoke;
+    font-size: 24px;
+}
+
+#great {
+    position: relative;
+    top: 160px;
+    background-color: whitesmoke;
+    font-size: 16px;
+

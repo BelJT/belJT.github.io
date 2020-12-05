@@ -1,0 +1,156 @@
+header {
+    width: auto;
+    height: 180px;
+    background-color: #10154b;
+    color: white;
+    padding: 5px;
+}
+
+.paper {
+    font-weight: 900;
+    font-style: oblique;
+    font-size: 48px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    float: right;
+    padding-right: 30px;
+}
+#spur{
+    font-size: 64px;
+}
+#snowflakes {
+    justify-items: center;
+}
+
+#canine {
+    background-image: url("../Christmas/Resources/Images/christmas-2934094_1920.jpg");
+    background-repeat: no-repeat;
+  background-size: 100%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: red;
+    font-weight: 700;
+    font-size: 96px;
+    text-transform: uppercase;
+    height: 150px;
+    justify-self: stretch;
+    padding-top: 10px;
+    letter-spacing: 0.5rem;
+    
+    
+    
+}
+
+
+
+#jose  {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;6
+    font-weight: 500px;
+    font-size: 96px;
+    grid-column-start: 1;
+    grid-column-end: 12;
+    grid-row-start: 1;
+    grid-row-end: 2;
+    padding: 10px;
+    
+}
+
+#Leya1 {
+    grid-column-start: 9;
+    grid-column-end: 13;
+    grid-row-start: 2;
+    grid-row-end: 3;
+    padding: 30px;
+}
+
+
+#p1 {
+    padding: 40px 20px 20px 20px;
+
+}
+
+
+p {
+    font-family: 'IBM Plex Serif', serif;
+}
+
+h3
+   {
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     font-size: 28px;
+     font-weight: 800px;
+     
+}
+
+#tothot {
+    margin: 20px 10px 40px 10px;
+    background-color: #dadced;
+    padding: 10px;
+}
+#THD {
+    font-size: 42px;
+    font-weight: 900;
+}
+
+#hotdog {
+    justify-self: center;
+}
+ 
+#Dec  {
+    font-weight: bold;
+    font-size: larger;
+}
+
+
+
+.bruges {
+    width: 400px;
+    background-image: url("../Christmas/Resources/Images/belfry-2611573_1920.jpg");
+    background-size: 480px;
+    height: 300px;
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    grid-row-start: 4;
+    grid-row-end: 6;
+    margin: auto;
+    
+}
+
+#visit {
+    position: relative;
+    top: 170px;
+    background-color: whitesmoke;
+    font-size: 24px;
+}
+
+#great {
+    position: relative;
+    top: 160px;
+    background-color: whitesmoke;
+    font-size: 16px;}
+
+#AIOA {
+    font-size: 36px;
+    font-weight: 700;
+    padding-left: 20px;
+    padding: 20px 10px 10px 30px;
+    text-transform: uppercase;
+}   
+#roost {
+    font-weight: bold;
+    font-size: larger;
+} 
+#polly1 {
+    padding-left: 30px;
+    padding-right: 20px;
+}
+
+#parrot {
+    float: right;
+    margin: 10px 10px 0px 20px;
+}    
+#cock {
+    float: left;
+    padding-right: 20px;
+    padding-left: 30px;
+}
+
